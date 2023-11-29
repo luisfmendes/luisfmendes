@@ -16,7 +16,7 @@
 </a>
   <br>
 <h1> 🖥️ Tecnologias utilizadas</h1>
-<div style="display: flex;height:50px;width:50px;">
+  <div style="display: flex;height:50px;width:50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="32" height="32" alt="MySQL"/>

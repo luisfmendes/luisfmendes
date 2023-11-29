@@ -25,6 +25,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="32" height="32" alt=".NET Core"/>
 </div>   
   <h2> 📊 Estatísticas</h2>
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfmendes&layout=compact&langs_count=7&theme=dracula" alt="Github Statistics"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfmendes&layout=compact&langs_count=7&theme=dracula" alt="Github Statistics"/>
 </body>
 </html>
